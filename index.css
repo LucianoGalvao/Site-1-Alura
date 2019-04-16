@@ -1,0 +1,190 @@
+header{
+    position: relative;
+}
+.palavra-home {
+    position: absolute;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: bold;
+    color: #D5447e;
+    font-size: 1.9rem;
+}
+.eficiencia {
+    top: 20%;
+    left: 75%;
+}
+
+.boas-praticas {
+    top: 70%;
+    left: 20%;
+}
+
+.codigo-limpo {
+    top: 45%;
+    left: 10%;
+}
+
+.css3 {
+    top: 50%;
+    left: 30%;
+}
+
+.html5 {
+    top: 40%;
+    left: 80%;
+}
+
+.javascript {
+    top: 10%;
+    left: 60%;
+}
+
+.acessibilidade {
+    top: 30%;
+    left: 25%;
+}
+
+.responsivo {
+    top: 15%;
+    left: 15%;
+}
+
+.otimizacoes {
+    top: 60%;
+    left: 70%;
+}
+
+.agilidade {
+    top: 10%;
+    left: 30%;
+}
+
+.design {
+    top: 35%;
+    left: 65%;
+} 
+.blog .inicio-post {
+    position: absolute;
+    top: 4em;
+    height: 8em;
+    left: 30%;
+    right: 4em;
+    background-color: #F2FFFC;
+    color: #000;
+    padding: 1.5em;
+}
+.foto-home {
+    height: 200px;
+}
+.saudacao p {
+    font-size: 1.5em;
+    color: #99A;
+    line-height: 1;
+    padding: 2em;
+}
+.subtitulo-principal {
+    font-size: .50em;
+    color: #FFF;
+    text-align: center;
+    text-transform: initial;
+}
+.saudacao-inicio {
+    text-align: left;
+    font-size: 3em;
+    color: #889;
+}
+.saudacao-ultima-linha {
+    text-align: right;
+    display: block;
+}
+.saudacao strong {
+    font-size: 2em;
+    color: #000;
+}
+.saudacao em {
+    color: #851944;
+    font-size: 4em;
+}
+.botao-index {
+    font-size: 1.25em;
+    background-color: #851944;
+    color: #FFF;
+    padding: .5em;
+    border: .2em solid black;
+    width: 40ch;
+    margin: 2em auto;
+    display: block;
+    text-align: center;
+    margin-bottom: 8em;
+}
+.secao-inicio h2 {
+     font-size: 3em;
+    text-shadow: 2px 2px #000;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+}
+.trabalhos {
+    background-color: #3C1D3D;
+    border-top: .5em solid #000;
+    border-bottom: .5em solid #000;
+}
+.trabalhos h2 {
+    color: #FFF;
+    padding: .3em;
+}
+.trabalhos ul {
+    margin: 2em;
+    overflow: hidden;
+    border: .5em solid black;
+}
+.trabalhos li {
+    
+    float: left;
+    width: 33.33%;
+    box-sizing: border-box;
+}
+.trabalhos img {
+    width: 100%;
+    display: block;
+}
+.blog {
+    background-color: #999;
+    color: #FFF;
+    border-bottom: .5em solid #851944;
+    padding: 1em;
+    position: relative;
+}
+.blog small {
+    position: relative;
+    top: -2em;
+}
+.blog li a {
+    color: #FCF;
+    padding: .5em;
+    display: block;
+}
+.titulo-post{
+    background-color: #F2FFFC;
+    padding: 1.5em;
+    width: 30%;
+    color: #000;
+}
+footer {
+    background-color: #000;
+    color: #FFF;
+    padding: -1em;
+    border-top: .30em solid mediumvioletred;
+    padding: .5em;
+    
+}
+footer h2 {
+    font-size: 3em;
+}
+
+footer a {
+    color: #F99;
+}
+main {
+    width: 100%;
+    padding-bottom: 5;
+    float: none;
+}
